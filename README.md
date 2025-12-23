@@ -52,3 +52,10 @@ This allows consultants and administrators to quickly review policy scope, risk 
 
 - This script is intended for reporting and analysis purposes.
 - Sample output is included for demonstration since tenant access and policies may change over time.
+
+---
+
+## Sample Output Preview
+
+![Sample Conditional Access Report](screenshots/sample_output_preview.png)
+
